@@ -1,0 +1,25 @@
+# ORL Weather on Friday 06 March 1998.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time 	Temp  	Humid 	DewPt 	Press 	WindSp	WindDr	Sun   	Rain  	Start 	MxWSpd
+#     	deg C 	%     	deg C 	mBar  	knots 	      	hours 	mm    	      	knots 
+16:00	11.8	84	9.2	1007	4.5	S	0	0.01	15:59	8
+16:30	11.4	89	9.6	1007	8.4	S	0	0.19	15:59	24
+17:00	11.4	83	8.6	1007	8.7	S	0	0.35	15:59	22
+17:30	11.4	83	8.6	1007	9.3	SW	0	0.53	15:59	24
+18:00	11.4	83	8.6	1007	9	S	0	0.91	15:59	26
+18:30	10.9	89	9.1	1007	8.8	S	0	1.41	15:59	24
+19:00	10.9	89	9.1	1007	8.5	S	0	1.48	15:59	26
+19:30	11.4	83	8.6	1007	8.7	SW	0	1.62	15:59	24
+20:00	10.9	84	8.3	1006	8.8	S	0	1.68	15:59	24
+20:30	10.9	84	8.3	1006	9.2	S	0	1.71	15:59	28
+21:00	10.9	84	8.3	1006	9.1	S	0	1.73	15:59	26
+21:30	10.9	84	8.3	1006	10.9	SW	0	1.73	15:59	28
+22:00	10.9	79	7.4	1005	9.9	SW	0	1.73	15:59	24
+22:30	10.9	79	7.4	1005	10.6	S	0	1.73	15:59	24
+23:00	10.9	79	7.4	1004	11.9	SW	0	1.77	15:59	32
+23:30	10.9	79	7.4	1004	11	S	0	1.77	15:59	40
+23:59	11.4	73	6.8	1004	10.1	S	0	1.77	15:59	28

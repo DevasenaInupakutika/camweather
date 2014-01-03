@@ -1,0 +1,17 @@
+# DTG Weather on Saturday 14 August 2010.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+00:00	13.6	95	12.8	1017	6.5	NW	0.00	0.00	00:00	14
+20:30	17.3	74	12.6	1020	3.6	NE	0.03	0.34	00:00	10
+21:00	16.8	76	12.5	1020	4.5	NE	0.03	0.34	00:00	14
+21:30	15.9	81	12.6	1020	2.2	NE	0.03	0.34	00:00	8
+22:00	15.0	86	12.7	1021	2.8	N	0.03	0.34	00:00	8
+22:30	14.5	88	12.5	1021	2.7	NW	0.03	0.34	00:00	8
+23:00	14.1	91	12.6	1021	2.6	NW	0.03	0.34	00:00	6
+23:30	13.6	93	12.5	1021	3.5	NW	0.03	0.34	00:00	8
+23:59	13.2	96	12.6	1021	3.6	NW	0.03	0.34	00:00	6

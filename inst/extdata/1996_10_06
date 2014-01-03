@@ -1,0 +1,29 @@
+# ORL Weather on Sunday 06 October 1996.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time 	Temp  	Humid 	DewPt 	Press 	WindSp	WindDr	Sun   	Rain  	Start 	MxWSpd
+#     	deg C 	%     	deg C 	mBar  	knots 	      	hours 	mm    	      	knots 
+00:00	6.8	77	3	1025	0	*	0	0	00:00	2
+00:30	6.4	82	3.6	1026	0	*	0	0	00:00	0
+01:00	6	82	3.1	1025	0.1	SW	0	0	00:00	4
+01:30	5.6	81	2.7	1025	0	*	0	0	00:00	4
+02:00	5.2	87	3.3	1026	0.2	SW	0	0	00:00	4
+02:30	5.2	87	3.3	1025	0.2	S	0	0	00:00	2
+03:00	5.6	81	2.7	1025	0.1	S	0	0	00:00	2
+03:30	5.6	88	3.7	1025	0.3	S	0	0.02	00:00	4
+04:00	5.6	88	3.7	1025	0.5	S	0	0.02	00:00	4
+04:30	6	82	3.1	1025	0.5	S	0	0.02	00:00	4
+05:00	6.4	82	3.6	1025	0.6	S	0	0.02	00:00	4
+05:30	6.4	88	4.6	1025	0.5	S	0	0.02	00:00	4
+06:00	6.8	88	5	1025	0.3	S	0	0.02	00:00	4
+06:30	7.2	88	5.4	1025	0.4	S	0	0.02	00:00	4
+07:00	7.2	94	6.3	1025	0.7	S	0	0.02	00:00	4
+07:30	7.6	89	5.8	1025	1.7	SW	0	0.02	00:00	6
+08:00	7.6	94	6.7	1025	1	SW	0	0.02	00:00	6
+08:30	8	89	6.3	1025	1.5	S	0	0.02	00:00	6
+09:00	8.4	89	6.7	1025	0.3	S	0	0.02	00:00	4
+09:30	11.8	95	11	1023	1.1	SW	0	0.02	00:00	16
+09:30	11.8	95	11	1023	0	*	0	0.02	00:00	0

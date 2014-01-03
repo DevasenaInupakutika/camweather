@@ -1,0 +1,11 @@
+# DTG Weather on Sunday 31 October 2010.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+00:00	10.0	91	8.6	996	3.8	SE	0.00	0.00	00:00	10
+00:30	10.0	91	8.6	996	3.9	SE	0.00	0.00	00:00	10
+01:00	9.6	91	8.2	996	1.1	SE	0.00	0.00	00:00	8

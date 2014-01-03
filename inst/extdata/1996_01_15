@@ -1,0 +1,22 @@
+# ORL Weather on Monday 15 January 1996.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time 	Temp  	Humid 	DewPt 	Press 	WindSp	WindDr	Sun   	Rain  	Start 	MxWSpd
+#     	deg C 	%     	deg C 	mBar  	knots 	      	hours 	mm    	      	knots 
+17:00	7.2	100	7.2	1023	0.9	S	0	0	16:28	6
+18:00	7.2	100	7.2	1024	3.7	S	0	0	17:36	10
+18:30	7.2	100	7.2	1024	2	S	0	0	17:36	8
+19:00	6.8	100	6.8	1024	2.2	S	0	0	17:36	8
+19:30	7.2	100	7.2	1024	1.5	S	0	0	17:36	8
+20:00	7.2	94	6.3	1025	1.9	S	0	0	17:36	8
+20:30	6.8	100	6.8	1025	1	SE	0	0	17:36	4
+21:00	6.8	100	6.8	1025	0.5	S	0	0	17:36	4
+21:30	6.8	100	6.8	1025	0.7	SE	0	0	17:36	4
+22:00	6.8	100	6.8	1026	0.7	S	0	0	17:36	4
+22:30	6.8	100	6.8	1026	0.3	S	0	0	17:36	6
+23:00	6.4	100	6.4	1026	0	*	0	0	17:36	2
+23:30	6.4	100	6.4	1026	0	*	0	0	17:36	2
+23:59	6.4	94	5.5	1026	0	*	0	0	17:36	2

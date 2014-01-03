@@ -1,0 +1,25 @@
+# ORL Weather on Wednesday 08 April 1998.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time 	Temp  	Humid 	DewPt 	Press 	WindSp	WindDr	Sun   	Rain  	Start 	MxWSpd
+#     	deg C 	%     	deg C 	mBar  	knots 	      	hours 	mm    	      	knots 
+16:00	9.6	74	5.2	1000	2.8	NW	0	0	15:38	10
+16:30	10.9	69	5.5	1000	1.5	NW	0	0	15:38	8
+17:00	11.8	69	6.3	999	0.3	N	0.14	0	15:38	4
+17:30	11.8	74	7.3	998	0	*	0.22	0	15:38	2
+18:00	10.5	74	6	999	3.9	S	0.23	1.41	15:38	18
+18:30	9.2	79	5.7	999	1.8	S	0.23	2.45	15:38	*
+19:00	8.8	78	5.3	999	1.8	SW	0.23	2.5	15:38	10
+19:30	8.4	83	5.8	998	0	*	0.23	2.5	15:38	0
+20:00	8.4	83	5.8	999	0	*	0.23	2.5	15:38	0
+20:30	8.4	83	5.8	998	0	*	0.23	2.5	15:38	2
+21:00	8.4	78	4.8	998	0.1	NE	0.23	2.5	15:38	4
+21:30	8.4	83	5.8	999	0.6	S	0.23	2.5	15:38	6
+22:00	8.4	78	4.8	999	0.6	S	0.23	2.5	15:38	6
+22:30	8	89	6.3	998	0	*	0.23	2.5	15:38	2
+23:00	7.6	83	4.9	998	0.2	SE	0.23	2.5	15:38	4
+23:30	7.6	83	4.9	998	0.1	NE	0.23	2.5	15:38	4
+23:59	7.6	83	4.9	998	0.3	S	0.23	2.5	15:38	10

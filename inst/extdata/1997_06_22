@@ -1,0 +1,13 @@
+# ORL Weather on Sunday 22 June 1997.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time 	Temp  	Humid 	DewPt 	Press 	WindSp	WindDr	Sun   	Rain  	Start 	MxWSpd
+#     	deg C 	%     	deg C 	mBar  	knots 	      	hours 	mm    	      	knots 
+00:00	12.3	83	9.6	994	4.8	S	0	0	00:00	14
+00:30	12.3	83	9.6	994	3.6	S	0	0	00:00	12
+01:00	12.3	83	9.6	994	4.8	S	0	0	00:00	12
+01:30	12.3	83	9.6	993	4	S	0	0.02	00:00	12
+02:00	12.3	83	9.6	993	3.4	S	0	0.04	00:00	12

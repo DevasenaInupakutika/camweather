@@ -1,0 +1,11 @@
+# DTG Weather on Monday 31 December 2007.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+00:00	5.6	*	*	*	*	*	0.00	0.00	00:00	*
+00:30	5.6	*	*	*	*	*	0.00	0.00	00:00	*
+01:00	5.6	*	*	*	*	*	0.00	0.00	00:00	*

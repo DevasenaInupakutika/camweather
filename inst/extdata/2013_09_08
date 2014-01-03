@@ -1,0 +1,10 @@
+# DTG Weather on Sunday 08 September 2013.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+23:30	9.2	92	8.0	1018	0.9	S	0.80	0.00	23:30	4
+23:59	8.8	93	7.7	1017	0.6	S	0.80	0.00	23:30	4
