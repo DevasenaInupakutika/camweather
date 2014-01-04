@@ -31,4 +31,8 @@ plot(x$Time, x[, "Temp [degC]"], type = "b")
 \author{
   Laurent Gatto <lg390@cam.ac.uk>
 }
+\seealso{
+  \code{\link{nounits}} to remove the units from the
+  \code{data.frame}'s names.
+}
 

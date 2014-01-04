@@ -73,6 +73,8 @@ weatherfile <- function(date) {
 ##' @return A \code{data.frame} with the weather data for the
 ##' corresponding \code{date}.
 ##' @author Laurent Gatto <lg390@@cam.ac.uk>
+##' @seealso \code{\link{nounits}} to remove the units from the
+##' \code{data.frame}'s names.
 ##' @examples
 ##' x <- weatherdata("2012-12-25")
 ##' dim(x)
@@ -102,4 +104,20 @@ weatherdata <- function(date) {
     return(w)
 }
 
+##' Removes the units from the data.frame names.
+##'
+##' @title Remove units from header
+##' @param x A \code{data.frame} of weather data, as returned by
+##' \code{\link{weatherdata}}.
+##' @return The same \code{data.frame} as \code{x} with unitless
+##' names.
+##' @author Laurent Gatto <lg390@@cam.ac.uk>
+##' @examples
+##' x <- weatherdata("2012-12-25")
+##' names(x)
+##' names(nounits(x))
+nounits <- function(x) {
+    names(x) <- sub(" \\[.+\\]$", "", names(x))
+    x
+}
 
