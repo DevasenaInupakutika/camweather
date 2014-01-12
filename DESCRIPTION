@@ -1,7 +1,7 @@
 Package: camweather
 Type: Package
 Title: Cambridge Weather Data
-Version: 0.1.2
+Version: 0.2.0
 Author: Stephen Eglen and Laurent Gatto
 Maintainer: Laurent Gatto <lg390@cam.ac.uk>
 Description: Cambridge, UK weather data collected by the 
